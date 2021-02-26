@@ -1,0 +1,32 @@
+{
+  "name": "wikipedia",
+  "version": "1.0.0",
+  "description": "Simple node js app to fetch data from wikipedia",
+  "main": "wiki.js",
+  "scripts": {
+    "test": "wiki"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reboot13-git/js-wikipedia.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "node",
+    "js",
+    "wikipedia",
+    "api",
+    "rest",
+    "api"
+  ],
+  "author": "reboot13)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reboot13-git/js-wikipedia/issues"
+  },
+  "homepage": "https://github.com/reboot13-git/js-wikipedia#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
